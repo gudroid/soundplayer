@@ -3,15 +3,18 @@
     {
       "nome": "Mensal",
       "preco": "R$ 34,99",
+      "detalhe": " "
     },
     {
       "nome": "Trimestral",
       "preco": "R$ 89,99",
+      "detalhe": "",
       "destaque": "Economize 14%"
     },
     {
       "nome": "Anual",
       "preco": "R$ 299,99",
+      "detalhe": "",
       "destaque": "Melhor custo · -28%"
     }
   ],
