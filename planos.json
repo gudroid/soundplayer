@@ -3,18 +3,15 @@
     {
       "nome": "Mensal",
       "preco": "R$ 34,99",
-      "detalhe": "30 dias de acesso completo "
     },
     {
       "nome": "Trimestral",
       "preco": "R$ 89,99",
-      "detalhe": "3 meses · sai R$ 30,00 por mês",
       "destaque": "Economize 14%"
     },
     {
       "nome": "Anual",
       "preco": "R$ 299,99",
-      "detalhe": "12 meses · sai R$ 25,00 por mês",
       "destaque": "Melhor custo · -28%"
     }
   ],
