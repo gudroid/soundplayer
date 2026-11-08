@@ -1,0 +1,23 @@
+{
+  "planos": [
+    {
+      "nome": "Mensal",
+      "preco": "R$ 34,99",
+      "detalhe": "30 dias de acesso "
+    },
+    {
+      "nome": "Trimestral",
+      "preco": "R$ 89,99",
+      "detalhe": "3 meses · sai R$ 30,00 por mês",
+      "destaque": "Economize 14%"
+    },
+    {
+      "nome": "Anual",
+      "preco": "R$ 299,99",
+      "detalhe": "12 meses · sai R$ 25,00 por mês",
+      "destaque": "Melhor custo · -28%"
+    }
+  ],
+  "nota": "Escolha o plano e fale comigo no WhatsApp para pagar e receber o código.",
+  "indicacao": "Indique um amigo: quando ele contratar um plano, você ganha <b>7 dias grátis</b>."
+}
