@@ -2,20 +2,20 @@
   "planos": [
     {
       "nome": "Mensal",
-      "preco": "R$ 29,99",
+      "preco": "R$ 19,99",
       "detalhe": " "
     },
     {
-      "nome": "Trimestral",
-      "preco": "R$ 79,99",
+      "nome": "6 Meses",
+      "preco": "R$ 99,99",
       "detalhe": "",
-      "destaque": "Economize 11%"
+      "destaque": "Economize 17%"
     },
     {
       "nome": "Anual",
-      "preco": "R$ 249,99",
+      "preco": "R$ 174,99",
       "detalhe": "",
-      "destaque": "Melhor custo · -30%"
+      "destaque": "Melhor custo · -27%"
     }
   ],
   "nota": "Escolha o plano e fale comigo no WhatsApp para pagar e receber o código.",
